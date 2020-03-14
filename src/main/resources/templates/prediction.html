@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Pico&Placa Predictor</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" th:href="@{/css/bootstrap.min.css}"/>
+</head>
+<body>
+<div class="container text-center">
+    <h1><p th:text="'Result for plate ' + ${picoPlaca.plate}"/></h1>
+    <h2><p th:text="${picoPlaca.prediction}"/></h2>
+    <br/>
+    <a href="/">Predict another plate</a>
+</div>
+</body>
+</html>

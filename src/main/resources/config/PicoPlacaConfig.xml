@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PicoPlaca>
+    <restrictions>
+        <restriction dayNumber="1">
+            <numbers>1,2</numbers>
+        </restriction>
+        <restriction dayNumber="2">
+            <numbers>3,4</numbers>
+        </restriction>
+        <restriction dayNumber="3">
+            <numbers>5,6</numbers>
+        </restriction>
+        <restriction dayNumber="4">
+            <numbers>7,8</numbers>
+        </restriction>
+        <restriction dayNumber="5">
+            <numbers>9,0</numbers>
+        </restriction>
+    </restrictions>
+    <restrictedTimes>
+        <restrictedTime id="1">07:00-9:30</restrictedTime>
+        <restrictedTime id="2">16:00-19:30</restrictedTime>
+    </restrictedTimes>
+</PicoPlaca>
+
