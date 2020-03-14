@@ -40,7 +40,7 @@ Once the project has been successfully build, you need to execute the following 
 mvn spring-boot:run
 ```
 
-Then you need to navigate on a web browser to localhost:8080
+Then you need to navigate on a web browser to **localhost:8080**
 
 
 ## Configuration
@@ -88,5 +88,5 @@ Frameworks:
 * Frontend: Thymeleaf, Bootstrap
 
 ## Extras
-You can find the flow chart on the following line
+You can find the flow chart of the program on the following url: **https://bit.ly/2wZqMTb**
 
