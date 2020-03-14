@@ -90,3 +90,5 @@ Frameworks:
 ## Extras
 You can find the flow chart of the program on the following url: **https://bit.ly/2wZqMTb**
 
+You can access a live demo in the following address **http://45.184.102.150/prediction**
+
